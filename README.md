@@ -1,25 +1,29 @@
 <h1 align="center">Hi 👋, I'm Siddhi Prajapati</h1>
 <h3 align="center">UC Irvine Computer Science student building AI/ML, backend, and data-driven systems for real-world impact</h3>
 
-- 🔭 I’m currently working on **AI, backend, and data-driven software projects including Forager and ML-based applications**
+I design and build end-to-end software systems that integrate data, backend infrastructure, and intelligent models to solve practical problems. My work spans machine learning pipelines, backend services, and full-stack applications, with a strong focus on correctness, scalability, and usability under real-world constraints.
 
-- 🌱 I’m currently learning **C++, DSA, Docker, CI/CD tools, AI-assisted development, and robust evaluation methods for machine learning systems**
+🔭 Work & Projects
 
-- 👯 I’m looking to collaborate on **Machine learning, software engineering, backend development, and applied AI projects**
+Built a Fake News Detection system (~91% accuracy) using TF-IDF, n-grams, and logistic regression, with rigorous evaluation (PR/ROC, cross-validation, leakage checks)
+Developed Forager (AI Fashion Assistant) using Vertex AI, Flask, React, and external APIs to deliver real-time, vision-based recommendations
+Engineered backend systems including a SQLite-powered database engine, discrete-event simulation, and a custom interpreter with stack and control flow logic
+Created data-driven applications including analytics dashboards and SQL-backed systems for structured data workflows
 
-- 🤝 I’m looking for help with **Scalable ML deployment, cloud-based workflows, and advanced software engineering practices**
+💡 I enjoy working at the intersection of software engineering and data systems, thinking beyond just code to how systems behave in production—handling edge cases, ensuring data integrity, and improving performance.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sixxhi](https://github.com/Sixxhi)
+⚙️ Tech Stack
+Python | C++ | Java | SQL | Flask | React | OpenCV | NumPy | Pandas | Docker
 
-- 📝 I regularly write research papers on [Technical documentation, ML project reports, software development, and research-style analysis](Technical documentation, ML project reports, software development, and research-style analysis)
+🌐 GitHub: https://github.com/Sixxhi
 
-- 💬 Ask me about **Python, C++, Java, SQL, Flask, React, OpenCV, machine learning, computer vision, and debugging technical projects**
+💼 LinkedIn: https://www.linkedin.com/in/siddhi-prajapati-127483268
 
-- 📫 How to reach me **siddhi2277@gmail.com**
+📫 Email: siddhi2277@gmail.com
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/siddhi-prajapati-127483268](https://www.linkedin.com/in/siddhi-prajapati-127483268)
+🤝 I’m open to collaborating on backend systems, machine learning pipelines, and data-intensive applications
 
-- ⚡ Fun fact **I’ve worked across AI/ML, computer vision, analytics, backend systems, and UI prototyping, and I love turning ideas into practical, user-focused solutions**
+⚡ Fun fact: I’m drawn to building systems where small design decisions—data handling, structure, or logic—have a measurable impact on reliability and user experience.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
