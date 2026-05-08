@@ -3,7 +3,7 @@
 Software Engineering | Applied AI & Machine Learning | Full-Stack Development | Data Systems
 </h3>
 
-I design and build end-to-end software systems that integrate data, backend infrastructure, and intelligent models to solve practical problems. My work spans machine learning pipelines, backend services, and full-stack applications, with a strong focus on correctness, scalability, and usability under real-world constraints.
+Computer Science student at the University of California, Irvine with a Statistics minor and hands-on experience in software engineering, applied machine learning, full-stack development, data analytics, and VR training simulation research. Built projects across Python, C++, Java, SQL, Flask, React, Node.js, MongoDB, AWS, Vertex AI, IBM Watson Studio, and ML evaluation workflows. Strong in debugging, prototyping, model evaluation, database-backed applications, technical documentation, and translating real-world problems into reliable software systems.
 
 🔭 Work & Projects
 
