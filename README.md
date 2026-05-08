@@ -7,10 +7,11 @@ I design and build end-to-end software systems that integrate data, backend infr
 
 🔭 Work & Projects
 
-Built a Fake News Detection system (~91% accuracy) using TF-IDF, n-grams, and logistic regression, with rigorous evaluation (PR/ROC, cross-validation, leakage checks)
-Developed Forager (AI Fashion Assistant) using Vertex AI, Flask, React, and external APIs to deliver real-time, vision-based recommendations
-Engineered backend systems including a SQLite-powered database engine, discrete-event simulation, and a custom interpreter with stack and control flow logic
-Created data-driven applications including analytics dashboards and SQL-backed systems for structured data workflows
+My technical experience combines implementation, evaluation, and practical problem-solving. During my Fake News Detection research internship, I developed a machine learning pipeline to classify real and fake news articles using text preprocessing, feature extraction, Logistic Regression, Decision Tree models, and stratified 5-fold cross-validation, achieving approximately 91% accuracy with the best-performing model. I also built Forager, an AI fashion assistant using Vertex AI, Flask, React, and the Depop API, and developed backend components for CodeCraftHub, a personalized learning platform built with Node.js, Express.js, MongoDB, Docker, and generative AI-assisted development workflows.
+
+Through my UC Irvine projects, I have strengthened my foundation in Python, C++, Java, SQL, data structures, APIs, database-backed applications, debugging, modular design, and technical documentation. My Python Systems Projects included a discrete-event alert propagation simulator, a SQLite-backed airport database engine with Tkinter and event-driven CRUD/search functionality, and a Grin language interpreter with program counter logic, branching, labels, and call stack handling. I also contributed to GlassBoxAI, an AWS Cloud Hacks 2026 AI Safety Track-winning project that used Figma, Three.js, AWS Lambda, and Amazon Bedrock to monitor AI-agent decisions, trace logs, tool calls, safety scores, and critical alerts.
+
+
 
 💡 I enjoy working at the intersection of software engineering and data systems, thinking beyond just code to how systems behave in production—handling edge cases, ensuring data integrity, and improving performance.
 
