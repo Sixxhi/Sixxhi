@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhi Prajapati</h1>
-<h3 align="center">UC Irvine Computer Science student building AI/ML, backend, and data-driven systems for real-world impact</h3>
+<h3 align="center">University of California, Irvine | B.S. in Computer Science, Minor in Statistics | Sophomore Standing | Expected June 2028
+Software Engineering | Applied AI & Machine Learning | Full-Stack Development | Data Systems
+</h3>
 
 I design and build end-to-end software systems that integrate data, backend infrastructure, and intelligent models to solve practical problems. My work spans machine learning pipelines, backend services, and full-stack applications, with a strong focus on correctness, scalability, and usability under real-world constraints.
 
