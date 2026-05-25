@@ -1,33 +1,107 @@
 <h1 align="center">Hi 👋, I'm Siddhi Prajapati</h1>
-<h3 align="center">University of California, Irvine | B.S. in Computer Science, Minor in Statistics | Sophomore Standing | Expected June 2028
-Software Engineering | Applied AI & Machine Learning | Full-Stack Development | Data Systems
-</h3>
+<h3 align="center">University of California, Irvine | B.S. Computer Science, Minor in Statistics | Expected June 2028</h3>
+<h4 align="center">Software Engineering · Applied AI & Machine Learning · Backend & Distributed Systems · Full-Stack · Data Infrastructure · Cloud Applications</h4>
 
-Computer Science student at the University of California, Irvine with a Statistics minor and hands-on experience in software engineering, applied machine learning, full-stack development, data analytics, and VR training simulation research. Built projects across Python, C++, Java, SQL, Flask, React, Node.js, MongoDB, AWS, Vertex AI, IBM Watson Studio, and ML evaluation workflows. Strong in debugging, prototyping, model evaluation, database-backed applications, technical documentation, and translating real-world problems into reliable software systems.
+<p align="center">
+Computer Science student at UC Irvine (GPA 3.6, Dean's Honor List ×4) with hands-on experience building backend systems, AI-integrated applications, full-stack products, and applied ML pipelines. Currently an undergraduate research assistant at UCI Calit2 SMART ITAC, developing VR training simulations and backend workflows for AI-assisted energy and data-center training systems. I care about building things that are reliable, readable, and actually useful in practice.
+</p>
 
-🔭 Work & Projects
+---
 
-My technical experience combines implementation, evaluation, and practical problem-solving. During my Fake News Detection research internship, I developed a machine learning pipeline to classify real and fake news articles using text preprocessing, feature extraction, Logistic Regression, Decision Tree models, and stratified 5-fold cross-validation, achieving approximately 91% accuracy with the best-performing model. I also built Forager, an AI fashion assistant using Vertex AI, Flask, React, and the Depop API, and developed backend components for CodeCraftHub, a personalized learning platform built with Node.js, Express.js, MongoDB, Docker, and generative AI-assisted development workflows.
+### 🔬 Currently Working On
 
-Through my UC Irvine projects, I have strengthened my foundation in Python, C++, Java, SQL, data structures, APIs, database-backed applications, debugging, modular design, and technical documentation. My Python Systems Projects included a discrete-event alert propagation simulator, a SQLite-backed airport database engine with Tkinter and event-driven CRUD/search functionality, and a Grin language interpreter with program counter logic, branching, labels, and call stack handling. I also contributed to GlassBoxAI, an AWS Cloud Hacks 2026 AI Safety Track-winning project that used Figma, Three.js, AWS Lambda, and Amazon Bedrock to monitor AI-agent decisions, trace logs, tool calls, safety scores, and critical alerts.
+**Undergraduate Research Assistant — VR & AI Systems · UCI Calit2 SMART ITAC** *(Apr 2026 – Present)*
 
+Developing VR training simulations in SimInsights HyperSkill for building energy assessments and data-center cooling efficiency. Building modular backend workflows for AI evaluation, observability, and simulation-feedback pipelines. Designing reasoning workflows for an AI training agent grounded in ITAC, ASHRAE, and ISO standards.
 
+---
 
-💡 I enjoy working at the intersection of software engineering and data systems, thinking beyond just code to how systems behave in production—handling edge cases, ensuring data integrity, and improving performance.
+### 🏆 Projects
 
-⚙️ Tech Stack
-Python | C++ | Java | SQL | Flask | React | OpenCV | NumPy | Pandas | Docker
+**GlassBoxAI** · *Winner, AI Safety Track — AWS Cloud Hacks 2026*
+`AWS Lambda · Amazon Bedrock · Three.js · Figma`
 
-🌐 GitHub: https://github.com/Sixxhi
+An AI safety observability platform for a Smart Stadium Simulator that monitors agent reasoning, safety scores, tool-call traces, and critical system alerts in real time. Built the AI monitoring logic, frontend visualization (Three.js globe/stadium), full dark-mode UI in Figma, and AWS Lambda + Bedrock integrations for agent reasoning pipelines and safety evaluation.
 
-💼 LinkedIn: https://www.linkedin.com/in/siddhi-prajapati-127483268
+---
 
-📫 Email: siddhi2277@gmail.com
+**Forager** · *Irvine Hacks 2025*
+`Vertex AI · Flask · React · Depop API`
 
-🤝 I’m open to collaborating on backend systems, machine learning pipelines, and data-intensive applications
+A full-stack AI fashion assistant that analyzes outfit images using Vertex AI vision models and recommends similar second-hand alternatives via the Depop API. Built and deployed within a 24-hour hackathon.
 
-⚡ Fun fact: I’m drawn to building systems where small design decisions—data handling, structure, or logic—have a measurable impact on reliability and user experience.
+---
 
+**CodeCraftHub**
+`Node.js · Express.js · MongoDB · Docker · Generative AI`
+
+A personalized developer-learning platform with modular backend services, REST APIs, Dockerized deployment, GitHub-based CI workflow, and generative AI tooling applied across the full SDLC. IBM edX capstone project.
+
+---
+
+**Fake News Detection — NLP Research**
+`TF-IDF · Logistic Regression · Decision Trees · scikit-learn · ROC-AUC`
+
+End-to-end NLP pipeline for fake-news classification using TF-IDF feature extraction, n-gram modeling, Logistic Regression, and Decision Tree classifiers. Validated with F1, precision-recall curves, ROC-AUC, and stratified 5-fold cross-validation. Identified data leakage risks and delivered a structured comparative research report.
+
+---
+
+**Python Systems Projects · UC Irvine**
+`Python · SQLite · Tkinter · Event-Driven Architecture`
+
+Discrete-event alert propagation simulator, SQLite-backed airport database engine with parameterized CRUD and search, and a Grin language interpreter with label resolution, branching, and call-stack execution.
+
+---
+
+**DSA Labs · UC Irvine**
+`C++ · GoogleTest · CMake`
+
+ArrayList, LinkedList, circular queue, QueueStack, and sorting algorithms in C++, validated with GoogleTest unit test suites managed via CMake.
+
+---
+
+### ⚙️ Tech Stack
+
+**Languages:** Python · Java · C · C++ · SQL · JavaScript · HTML/CSS
+
+**Frameworks & Backend:** Node.js · Express.js · Flask · React · REST APIs
+
+**Databases:** MongoDB · PostgreSQL · SQLite
+
+**AI / ML:** scikit-learn · NumPy · Pandas · OpenCV · TF-IDF · Logistic Regression · Decision Trees · ROC-AUC · stratified cross-validation
+
+**Cloud & Platforms:** AWS Lambda · Amazon Bedrock · Vertex AI · IBM Watson Studio
+
+**Developer Tools:** Git · GitHub · Docker · CMake · GoogleTest · Figma · Three.js · Cursor · GitHub Copilot
+
+**Familiarity:** GitLab CI/CD · Jenkins · Snyk · Dynatrace
+
+---
+
+### 📜 Certifications
+
+- **IBM edX** — Mastering Generative AI for Software Development *(Mar 2026)*
+- **Node.js Certification** — Scaler Topics *(May 2026)* · 58 modules
+- **Harvard CS50x** — Introduction to Computer Science · HarvardX / edX (Verified)
+- **UX Design Fundamentals** — Georgia Tech · **OOP in Java** — Georgia Tech / Coursera
+
+---
+
+### 🤝 Open To
+
+Collaborating on backend systems, ML pipelines, AI-integrated applications, and data-intensive projects. Eligible for internships in the United States via CPT authorization (F-1, UC Irvine) — no employer sponsorship required.
+
+---
+
+### 📫 Connect
+
+<p align="left">
+🌐 <a href="https://github.com/Sixxhi">GitHub: github.com/Sixxhi</a><br/>
+💼 <a href="https://www.linkedin.com/in/siddhi-prajapati-127483268/">LinkedIn: siddhi-prajapati-127483268</a><br/>
+📧 siddhi2277@gmail.com
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
