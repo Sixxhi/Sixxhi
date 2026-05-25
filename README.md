@@ -104,6 +104,7 @@ Collaborating on backend systems, ML pipelines, AI-integrated applications, and 
 
 🌐 [GitHub: github.com/Sixxhi](https://github.com/Sixxhi)
 💼 [LinkedIn: siddhi-prajapati-127483268](https://www.linkedin.com/in/siddhi-prajapati-127483268/)
+🖥️ [Website: sixxhi.github.io](https://sixxhi.github.io)
 📧 siddhi2277@gmail.com
 
 ---
