@@ -3,7 +3,7 @@
 <h4 align="center">Software Engineering · Applied AI & Machine Learning · Backend & Distributed Systems · Full-Stack · Data Infrastructure · Cloud Applications</h4>
 
 <p align="center">
-Computer Science student at UC Irvine (GPA 3.6, Dean's Honor List ×4) with hands-on experience building backend systems, AI-integrated applications, full-stack products, and applied ML pipelines. Currently an undergraduate research assistant at UCI Calit2 SMART ITAC, developing VR training simulations and backend workflows for AI-assisted energy and data-center training systems. I care about building things that are reliable, readable, and actually useful in practice.
+Computer Science student at UC Irvine (<strong>GPA 3.6, Dean's Honor List ×4</strong>) actively building AI, backend, and full-stack systems across research and industry. Currently developing <strong>AI-assisted VR training systems</strong> as an undergraduate researcher at <strong>UCI Calit2 SMART ITAC</strong>. <strong>AWS Cloud Hacks 2026 AI Safety Track winner.</strong> I care about building things that are reliable, readable, and actually useful in practice — from NLP pipelines and cloud integrations to systems-level C++ and database-backed applications. Eligible for internships via CPT authorization.
 </p>
 
 ---
@@ -12,27 +12,27 @@ Computer Science student at UC Irvine (GPA 3.6, Dean's Honor List ×4) with hand
 
 **Undergraduate Research Assistant — VR & AI Systems · UCI Calit2 SMART ITAC** *(Apr 2026 – Present)*
 
-Developing VR training simulations in SimInsights HyperSkill for building energy assessments and data-center cooling efficiency. Building modular backend workflows for AI evaluation, observability, and simulation-feedback pipelines. Designing reasoning workflows for an AI training agent grounded in ITAC, ASHRAE, and ISO standards.
+Developing VR training simulations in SimInsights HyperSkill for building energy assessments and data-center cooling efficiency. Building modular backend workflows for AI evaluation, observability, and simulation-feedback pipelines. Designing reasoning workflows for an AI training agent grounded in ITAC, ASHRAE, California building codes, and ISO standards to deliver contextualized simulation feedback.
 
 ---
 
 ### 🏆 Projects
 
-**GlassBoxAI** · *Winner, AI Safety Track — AWS Cloud Hacks 2026*
+**GlassBoxAI — Agentic AI Safety Observability Platform** · *Winner, AI Safety Track — AWS Cloud Hacks 2026*
 `AWS Lambda · Amazon Bedrock · Three.js · Figma`
 
-An AI safety observability platform for a Smart Stadium Simulator that monitors agent reasoning, safety scores, tool-call traces, and critical system alerts in real time. Built the AI monitoring logic, frontend visualization (Three.js globe/stadium), full dark-mode UI in Figma, and AWS Lambda + Bedrock integrations for agent reasoning pipelines and safety evaluation.
+A real-time AI safety observability platform for a Smart Stadium Simulator that monitors agent reasoning, safety scores, tool-call traces, and critical system alerts. Built the AI monitoring logic, interactive Three.js globe/stadium visualization, full dark-mode UI in Figma, and AWS Lambda + Bedrock integrations for agent reasoning pipelines and safety evaluation.
 
 ---
 
-**Forager** · *Irvine Hacks 2025*
+**Forager — Sustainable AI Fashion Assistant** · *Irvine Hacks 2025*
 `Vertex AI · Flask · React · Depop API`
 
-A full-stack AI fashion assistant that analyzes outfit images using Vertex AI vision models and recommends similar second-hand alternatives via the Depop API. Built and deployed within a 24-hour hackathon.
+A full-stack AI fashion assistant that analyzes outfit images using Vertex AI vision models and recommends similar second-hand alternatives via the Depop API. Designed, integrated, and deployed within 24 hours.
 
 ---
 
-**CodeCraftHub**
+**CodeCraftHub — AI-Augmented Developer Learning Platform**
 `Node.js · Express.js · MongoDB · Docker · Generative AI`
 
 A personalized developer-learning platform with modular backend services, REST APIs, Dockerized deployment, GitHub-based CI workflow, and generative AI tooling applied across the full SDLC. IBM edX capstone project.
@@ -42,7 +42,7 @@ A personalized developer-learning platform with modular backend services, REST A
 **Fake News Detection — NLP Research**
 `TF-IDF · Logistic Regression · Decision Trees · scikit-learn · ROC-AUC`
 
-End-to-end NLP pipeline for fake-news classification using TF-IDF feature extraction, n-gram modeling, Logistic Regression, and Decision Tree classifiers. Validated with F1, precision-recall curves, ROC-AUC, and stratified 5-fold cross-validation. Identified data leakage risks and delivered a structured comparative research report.
+End-to-end NLP pipeline for fake-news classification using TF-IDF feature extraction, n-gram modeling, Logistic Regression, and Decision Tree classifiers; **best-performing model achieved ~91% classification accuracy.** Validated with F1, precision-recall curves, ROC-AUC, and stratified 5-fold cross-validation. Identified data leakage risks and delivered a structured research-style paper and report.
 
 ---
 
@@ -57,6 +57,13 @@ Discrete-event alert propagation simulator, SQLite-backed airport database engin
 `C++ · GoogleTest · CMake`
 
 ArrayList, LinkedList, circular queue, QueueStack, and sorting algorithms in C++, validated with GoogleTest unit test suites managed via CMake.
+
+---
+
+**Additional Projects · Personal / UC Irvine**
+`Python · SQL · Android · OpenCV · Thunkable`
+
+Database-backed Blood Bank and Library Automation systems; DocTrack, an Android app for document-expiration tracking; OpenCV edge detection prototypes, fitness and book review apps, meal plan generator, and UCI EngiTank. Full list on GitHub.
 
 ---
 
@@ -80,26 +87,24 @@ ArrayList, LinkedList, circular queue, QueueStack, and sorting algorithms in C++
 
 ### 📜 Certifications
 
-- **IBM edX** — Mastering Generative AI for Software Development *(Mar 2026)*
-- **Node.js Certification** — Scaler Topics *(May 2026)* · 58 modules
-- **Harvard CS50x** — Introduction to Computer Science · HarvardX / edX (Verified)
-- **UX Design Fundamentals** — Georgia Tech · **OOP in Java** — Georgia Tech / Coursera
+- **IBM edX** — Mastering Generative AI for Software Development *(Mar 2026)* · AI-assisted SDLC, Dockerfile generation; applied through CodeCraftHub
+- **Node.js Certification** — Scaler Topics *(May 2026)* · 58 modules: Express.js, async JS, MongoDB/Mongoose, REST API with full CRUD
+- **Harvard CS50x** — Introduction to Computer Science · HarvardX / edX *(Verified)* · C, Python, SQL, JavaScript
+- **UX Design Fundamentals** — Georgia Tech · **OOP in Java** — Georgia Tech / Coursera · Both Verified
 
 ---
 
 ### 🤝 Open To
 
-Collaborating on backend systems, ML pipelines, AI-integrated applications, and data-intensive projects. Eligible for internships in the United States via CPT authorization (F-1, UC Irvine) — no employer sponsorship required.
+Collaborating on backend systems, ML pipelines, AI-integrated applications, and data-intensive projects. Eligible for internships in the United States via **CPT authorization** (F-1, UC Irvine) — no employer sponsorship required.
 
 ---
 
 ### 📫 Connect
 
-<p align="left">
-🌐 <a href="https://github.com/Sixxhi">GitHub: github.com/Sixxhi</a><br/>
-💼 <a href="https://www.linkedin.com/in/siddhi-prajapati-127483268/">LinkedIn: siddhi-prajapati-127483268</a><br/>
+🌐 [GitHub: github.com/Sixxhi](https://github.com/Sixxhi)
+💼 [LinkedIn: siddhi-prajapati-127483268](https://www.linkedin.com/in/siddhi-prajapati-127483268/)
 📧 siddhi2277@gmail.com
-</p>
 
 ---
 
