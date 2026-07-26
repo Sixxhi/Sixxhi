@@ -9,7 +9,7 @@ Computer Science Junior at UC Irvine (GPA 3.6, Dean's Honor List ×4) actively b
 
 ## 🔬 Currently Working On
 
-**Undergraduate Research Assistant — VR & AI Systems · UCI Calit2 SMART ITAC** *(Apr 2026 – Present)*
+**Undergraduate Research Assistant — VR & AI Systems · UCI Calit2 SMART ITAC** *(Apr 2026 – Jun 2026)*
 
 Developing VR training simulations in SimInsights HyperSkill for building energy assessments and data-center cooling efficiency. Building modular backend pipelines for AI agent evaluation, observability, and simulation-feedback workflows. Designing reasoning workflows for an AI training agent grounded in ITAC, ASHRAE, California building codes, and ISO standards to deliver contextualized simulation feedback.
 
