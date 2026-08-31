@@ -1,17 +1,17 @@
 # Hi 👋, I'm Siddhi Prajapati
-**University of California, Irvine | B.S. Computer Science, Minor in Statistics | Expected June 2028**
+**University of California, Irvine | B.S. Computer Science, Specialization in Intelligent Systems, Minor in Statistics | Expected June 2028**
 
-Software Engineering · Applied AI & Machine Learning · Backend & Distributed Systems · Full-Stack · Cloud & DevOps
+Software Engineering · Applied AI & Machine Learning · Backend Systems · Full-Stack · Cloud & DevOps
 
-Computer Science Junior at UC Irvine (GPA 3.6, Dean's Honor List ×4) actively building AI, backend, and full-stack systems across research and industry. **AWS Cloud Hacks 2026 AI Safety Track winner (GlassBoxAI)** and **UC Berkeley AI Hackathon 2026 participant (IMMUNE)**. Undergraduate researcher at UCI Calit2 SMART ITAC. I care about building things that are reliable, observable, and trustworthy — from agentic AI systems and NLP pipelines to cloud infrastructure and database-backed applications. Eligible for internships via CPT authorization.
+Computer Science Junior at UC Irvine (GPA 3.64, Dean's Honor List: Sep 2024, Jan 2025, Jan 2026, Apr 2026) actively building AI, backend, and full-stack systems across research and industry. **AWS Cloud Hacks 2026 AI Safety Track winner (GlassBoxAI)** and **UC Berkeley AI Hackathon 2026 participant (IMMUNE)**. Previously an undergraduate researcher at UCI Calit2 SMART ITAC. Currently building an AI project at hyrAI focused on reducing false alarms in AI proctoring systems.
 
 ---
 
 ## 🔬 Currently Working On
 
-**Undergraduate Research Assistant — VR & AI Systems · UCI Calit2 SMART ITAC** *(Apr 2026 – Jun 2026)*
+**AI Project — False Alarms in AI Proctoring · hyrAI** *(Aug 2026 – Present)*
 
-Developing VR training simulations in SimInsights HyperSkill for building energy assessments and data-center cooling efficiency. Building modular backend pipelines for AI agent evaluation, observability, and simulation-feedback workflows. Designing reasoning workflows for an AI training agent grounded in ITAC, ASHRAE, California building codes, and ISO standards to deliver contextualized simulation feedback.
+Building a system to reduce false positive violation flags in AI proctoring without sacrificing detection of real cheating. Building a labeled dataset of 300+ flagged violations and applying precision-recall analysis and threshold tuning using MediaPipe and Python.
 
 ---
 
@@ -21,15 +21,23 @@ Developing VR training simulations in SimInsights HyperSkill for building energy
 **🏆 Winner, AI Safety Track — AWS Cloud Hacks 2026**
 `AWS Lambda` `Amazon Bedrock` `Three.js` `Figma` `Python` `JavaScript`
 
-A real-time AI safety observability platform for a Smart Stadium Simulator that monitors agent reasoning, safety scores, tool-call traces, and critical system alerts. Built the complete backend (AWS Lambda functions, Amazon Bedrock agent reasoning pipelines, safety scoring logic) and full frontend (interactive Three.js globe/stadium visualization, dark-mode UI designed in Figma). Detected 100% of injected high-risk scenarios with zero false negatives during live judging. Caught a critical Bedrock API parsing bug by testing Lambda functions against real endpoints before demo — prevented silent failure under judging conditions.
+A real-time AI safety observability platform for a Smart Stadium Simulator that monitors agent reasoning, safety scores, tool-call traces, and critical system alerts. Built the complete backend (AWS Lambda functions, Amazon Bedrock agent reasoning pipelines, safety scoring logic) and full frontend (interactive Three.js globe/stadium visualization, dark-mode UI designed in Figma). Detected 100% of injected high-risk scenarios with zero false negatives during live judging. Caught a critical Bedrock API parsing bug by testing Lambda functions against real endpoints before demo.
 
 ---
 
 ### IMMUNE — AI Agent Memory Integrity System
 **UC Berkeley AI Hackathon 2026 · Participant (Cal Hacks)**
-`Python` `Redis RediSearch` `Anthropic Claude Haiku 4.5` `LangGraph` `FastMCP` `Arize Phoenix` `OpenTelemetry` `Sentry` `Streamlit`
+`Python` `Redis RediSearch` `Anthropic Claude Haiku 4.5` `LangGraph` `FastMCP` `Arize Phoenix` `OpenTelemetry` `Sentry`
 
-A deterministic AI agent memory integrity system addressing OWASP ASI06 memory poisoning. Proves which memory caused a wrong answer through counterfactual replay and delta debugging — no LLM judge in the attribution loop. Quarantine enforced at Redis KNN vector index level using RediSearch FLAT index and cosine distance — poisoned memories physically cannot be retrieved. Implemented adaptive group testing and ddmin delta debugging to find the minimal guilty memory set. 44 tests across single-poison, redundant-poison, and staleness-rot scenarios. Integrated Arize Phoenix, OpenTelemetry, Sentry, and LangGraph BaseStore adapter.
+A deterministic AI agent memory integrity system addressing OWASP ASI06 memory poisoning. Proves which memory caused a wrong answer through counterfactual replay and delta debugging — no LLM judge in the attribution loop. Quarantine enforced at Redis KNN vector index level using RediSearch FLAT index and cosine distance. 44 tests across single-poison, redundant-poison, and staleness-rot scenarios.
+
+---
+
+### False Alarms in AI Proctoring — hyrAI
+**AI Project · Aug 2026 – Present**
+`Python` `MediaPipe` `Precision-Recall Analysis` `Data Labeling`
+
+Building a system to reduce false positive violation flags in AI proctoring systems without sacrificing detection of real cheating. Building labeled dataset of 300+ flagged violations; applying precision-recall analysis and threshold tuning to improve detection accuracy.
 
 ---
 
@@ -55,54 +63,32 @@ End-to-end NLP pipeline for fake-news classification using TF-IDF feature extrac
 
 ---
 
-### Python Systems Projects · UC Irvine
-`Python` `SQLite` `Tkinter` `Event-Driven Architecture`
-
-Discrete-event alert propagation simulator, SQLite-backed airport database engine with parameterized CRUD and search, and a Grin language interpreter with label resolution, branching, and call-stack execution.
-
----
-
-### DSA Labs · UC Irvine
-`C++` `GoogleTest` `CMake`
-
-ArrayList, LinkedList, circular queue, QueueStack, and sorting algorithms in C++, validated with GoogleTest unit test suites managed via CMake.
-
----
-
-### Additional Projects · Personal / UC Irvine
-`Python` `SQL` `Android` `OpenCV` `Thunkable`
-
-Database-backed Blood Bank and Library Automation systems; DocTrack, an Android app for document-expiration tracking; OpenCV edge detection prototypes, fitness and book review apps, meal plan generator, and UCI EngiTank. Full list on GitHub.
-
----
-
 ## ⚙️ Tech Stack
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python · Java · C · C++ · SQL · JavaScript · HTML/CSS |
-| **Frameworks & Backend** | Node.js · Express.js · Flask · React · REST APIs |
-| **Databases** | MongoDB · PostgreSQL · SQLite |
-| **AI / ML** | scikit-learn · NumPy · Pandas · OpenCV · TF-IDF · Logistic Regression · Decision Trees · ROC-AUC · stratified cross-validation · Redis RediSearch · LangGraph · FastMCP · Arize Phoenix · OpenTelemetry · Sentry |
-| **Cloud & Platforms** | AWS Lambda · Amazon Bedrock · Anthropic Claude API · Vertex AI · IBM Watson Studio |
-| **Developer Tools** | Git · GitHub · Docker · GitHub Actions · CMake · GoogleTest · Figma · Three.js · Cursor · GitHub Copilot |
-| **Familiarity** | GitLab CI/CD · Jenkins · Salesforce CI/CD · Snyk · Dynatrace |
+| **Languages** | Python · Java · C · C++ · SQL (Postgres) · JavaScript · HTML/CSS · R |
+| **Frameworks & Backend** | Node.js · Express.js · Flask · FastAPI · React · REST APIs · JUnit · MongoDB · PostgreSQL · SQLite · Redis |
+| **AI / ML** | scikit-learn · NumPy · Pandas · Matplotlib · OpenCV · TF-IDF · Logistic Regression · Decision Trees · ROC-AUC · stratified cross-validation · LangGraph · FastMCP · Redis RediSearch · Arize Phoenix · OpenTelemetry · Sentry |
+| **Cloud & Platforms** | AWS Lambda · Amazon Bedrock · Anthropic Claude API · Vertex AI · IBM Watson Studio · Docker · GitHub Actions |
+| **Developer Tools** | Git · GitHub · CMake · GoogleTest · Figma · Three.js · VS Code · Cursor · GitHub Copilot · GitLab CI/CD · Salesforce CI/CD · Snyk · Dynatrace |
 
 ---
 
 ## 📜 Certifications
 
-- **IBM edX** — Mastering Generative AI for Software Development *(Mar 2026)* · AI-assisted SDLC, Dockerfile generation; applied through CodeCraftHub
+- **IBM edX** — Mastering Generative AI for Software Development *(Mar 2026)* · AI-assisted SDLC, Dockerfile generation applied through CodeCraftHub
 - **Node.js Certification** — Scaler Topics *(May 2026)* · 58 modules: Express.js, async JS, MongoDB/Mongoose, REST API with full CRUD
-- **CI/CD for Salesforce** — DevOps Launchpad (Official Certification) *(Jul 2026)* · CI/CD automation, release pipelines, and continuous delivery for Salesforce DevOps ecosystems
+- **CI/CD for Salesforce** — DevOps Launchpad (Official Certification) *(Jul 2026)* · CI/CD automation, release pipelines, continuous delivery
 - **Harvard CS50x** — Introduction to Computer Science · HarvardX / edX (Verified) · C, Python, SQL, JavaScript
-- **UX Design Fundamentals** — Georgia Tech · **OOP in Java** — Georgia Tech / Coursera · Both Verified
 
 ---
 
-## 🤝 Open To
+## 🤝 Leadership & Community
 
-Collaborating on backend systems, ML pipelines, AI-integrated applications, agentic AI systems, and data-intensive projects. Eligible for internships in the United States via CPT authorization (F-1, UC Irvine) — no employer sponsorship required.
+- **Adobe Student Ambassador** — Adobe (2026–Present): Promoting creative AI and design tools within UCI's CS community
+- **Animal Care & Social Media Lead** — UCI ACC: Grew Instagram to ~15.3K average interactions over 14 months
+- **WICS & Data@UCI** — Member/Mentee: Technical workshops and software-engineering professional development
 
 ---
 
