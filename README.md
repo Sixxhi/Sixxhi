@@ -215,7 +215,6 @@ Sep 2024 – Jun 2028
 - **Adobe Student Ambassador** — Adobe (2026–Present): Promoting creative AI and design tools within UCI's CS engineering community through content and peer outreach
 - **Animal Care & Social Media Lead — UCI ACC**: Grew UCI ACC Instagram from baseline to **~15.3K average interactions** over 14 months through consistent content strategy and community engagement
 - **Microsoft Student Ambassador** — Microsoft (2026–Present): Advocating Azure AI and GitHub tools among UCI students
-- **Figma Campus Leader** — Applied 2026: Promoting design thinking and Figma workflows within UCI's CS community
 - **WICS & Data@UCI — Member/Mentee**: Technical workshops, mentorship programs, and software-engineering professional development
 - **Volunteer Tutor — Angel Xpress Foundation**: Weekly academic tutoring for underprivileged students
 
