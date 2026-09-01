@@ -189,7 +189,7 @@ Sep 2024 – Jun 2028
 | Category | Skills |
 |---|---|
 | **Languages** | Python · Java · C · C++ · SQL (Postgres) · JavaScript · HTML/CSS · R |
-| **Frameworks & Backend** | Node.js · Express.js · Flask · FastAPI · React · REST APIs · JUnit · MongoDB · PostgreSQL · SQLite · Redis |
+| **Frameworks & Backend** | Node.js · Express.js · Flask · FastAPI · React · REST APIs · MongoDB · PostgreSQL · SQLite · Redis |
 | **AI / ML** | scikit-learn · NumPy · Pandas · Matplotlib · OpenCV · TF-IDF · Logistic Regression · Decision Trees · ROC-AUC · stratified cross-validation · LangGraph · FastMCP · Redis RediSearch · Arize Phoenix · OpenTelemetry · Sentry |
 | **Cloud & Platforms** | AWS Lambda · Amazon Bedrock · Anthropic Claude API · Vertex AI · IBM Watson Studio · Docker · GitHub Actions |
 | **Developer Tools** | Git · GitHub · CMake · GoogleTest · Figma · Three.js · VS Code · Cursor · GitHub Copilot · GitLab CI/CD · Salesforce CI/CD · Snyk · Dynatrace |
