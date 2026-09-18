@@ -17,6 +17,8 @@ I am a CS Senior at UC Irvine specializing in Intelligent Systems with a Minor i
 
 My work spans AI safety and agentic systems, backend engineering, NLP pipelines, cloud infrastructure, and full-stack development. I have won the AWS Cloud Hacks 2026 AI Safety Track, participated in UC Berkeley AI Hackathon 2026, conducted research at UCI Calit2 SMART ITAC, and worked as a data science research intern building production-quality ML pipelines.
 
+<span style="color:#1a3a6b">**🟦 Availability:** Summer 2027 internships via CPT · Full-time from January 2028 via OPT — no employer sponsorship needed for either.</span>
+
 **What I am working on right now:**
 - 🔬 Building an AI project at **hyrAI** reducing false positive violation flags in AI proctoring systems
 - 📚 Pursuing the **Machine Learning Specialization** (Andrew Ng, Coursera)
