@@ -1,6 +1,6 @@
 # Hi 👋, I'm Siddhi Prajapati
 
-**Computer Science Junior · University of California, Irvine · Class of 2028**
+**Computer Science Senior · University of California, Irvine · Expected December 2027**
 
 > Building AI systems that are reliable, observable, and trustworthy — from agentic AI safety platforms and NLP pipelines to full-stack products and cloud infrastructure.
 
@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I am a CS Junior at UC Irvine specializing in Intelligent Systems with a Minor in Statistics (GPA 3.64, Dean's Honor List: Sep 2024, Jan 2025, Jan 2026, Apr 2026). I care about building things that work correctly under real conditions — not just things that look impressive in a demo.
+I am a CS Senior at UC Irvine specializing in Intelligent Systems with a Minor in Statistics (GPA 3.663, Dean's Honor List: Fall 2024, Winter 2025, Winter 2026, Spring 2026, expected graduation December 2027). I care about building things that work correctly under real conditions — not just things that look impressive in a demo.
 
 My work spans AI safety and agentic systems, backend engineering, NLP pipelines, cloud infrastructure, and full-stack development. I have won the AWS Cloud Hacks 2026 AI Safety Track, participated in UC Berkeley AI Hackathon 2026, conducted research at UCI Calit2 SMART ITAC, and worked as a data science research intern building production-quality ML pipelines.
 
@@ -176,10 +176,10 @@ Implemented ArrayList, LinkedList, circular queue, QueueStack, and sorting algor
 
 **University of California, Irvine — Donald Bren School of ICS**
 B.S. Computer Science, Specialization in Intelligent Systems | Minor in Statistics
-Sep 2024 – Jun 2028
+Sep 2024 – Dec 2027
 
-- **GPA: 3.64 / 4.0**
-- **Dean's Honor List:** Sep 2024 · Jan 2025 · Jan 2026 · Apr 2026
+- **GPA: 3.663 / 4.0**
+- **Dean's Honor List:** Fall 2024 · Winter 2025 · Winter 2026 · Spring 2026
 - **Relevant Coursework:** Artificial Intelligence (A), Information Retrieval (A+), Design & Analysis of Algorithms (B+), Data Structures (A–), Systems Programming C/C++, Linear Algebra (A+), Discrete Math (A), Statistics (A–)
 
 ---
@@ -189,7 +189,7 @@ Sep 2024 – Jun 2028
 | Category | Skills |
 |---|---|
 | **Languages** | Python · Java · C · C++ · SQL (Postgres) · JavaScript · HTML/CSS · R |
-| **Frameworks & Backend** | Node.js · Express.js · Flask · FastAPI · React · REST APIs · MongoDB · PostgreSQL · SQLite · Redis |
+| **Frameworks & Backend** | Node.js · Express.js · Flask · FastAPI · React · REST APIs · JUnit · MongoDB · PostgreSQL · SQLite · Redis |
 | **AI / ML** | scikit-learn · NumPy · Pandas · Matplotlib · OpenCV · TF-IDF · Logistic Regression · Decision Trees · ROC-AUC · stratified cross-validation · LangGraph · FastMCP · Redis RediSearch · Arize Phoenix · OpenTelemetry · Sentry |
 | **Cloud & Platforms** | AWS Lambda · Amazon Bedrock · Anthropic Claude API · Vertex AI · IBM Watson Studio · Docker · GitHub Actions |
 | **Developer Tools** | Git · GitHub · CMake · GoogleTest · Figma · Three.js · VS Code · Cursor · GitHub Copilot · GitLab CI/CD · Salesforce CI/CD · Snyk · Dynatrace |
@@ -214,6 +214,8 @@ Sep 2024 – Jun 2028
 
 - **Adobe Student Ambassador** — Adobe (2026–Present): Promoting creative AI and design tools within UCI's CS engineering community through content and peer outreach
 - **Animal Care & Social Media Lead — UCI ACC**: Grew UCI ACC Instagram from baseline to **~15.3K average interactions** over 14 months through consistent content strategy and community engagement
+- **Microsoft Student Ambassador** — Microsoft (2026–Present): Advocating Azure AI and GitHub tools among UCI students
+- **Figma Campus Leader** — Applied 2026: Promoting design thinking and Figma workflows within UCI's CS community
 - **WICS & Data@UCI — Member/Mentee**: Technical workshops, mentorship programs, and software-engineering professional development
 - **Volunteer Tutor — Angel Xpress Foundation**: Weekly academic tutoring for underprivileged students
 
