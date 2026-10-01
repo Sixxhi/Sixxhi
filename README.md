@@ -2,7 +2,7 @@
 
 **Computer Science Senior · University of California, Irvine · Expected December 2027**
 
-> Building AI systems that are reliable, observable, and trustworthy — from agentic AI safety platforms and NLP pipelines to full-stack products and cloud infrastructure.
+> Building AI systems that are reliable, observable, and trustworthy — from agentic AI safety platforms and evaluation frameworks to full-stack products and cloud infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/siddhi-prajapati-127483268/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sixxhi.github.io-navy)](https://sixxhi.github.io)
@@ -20,13 +20,24 @@ My work spans AI safety and agentic systems, backend engineering, NLP pipelines,
 <span style="color:#1a3a6b">**🟦 Availability:** Summer 2027 internships via CPT · Full-time from January 2028 via OPT.</span>
 
 **What I am working on right now:**
-- 🔬 Building an AI project at **hyrAI** reducing false positive violation flags in AI proctoring systems
 - 📚 Pursuing the **Machine Learning Specialization** (Andrew Ng, Coursera)
 - 🏛️ Applied to the **Anthropic Fellows Program** (AI Safety & Alignment workstream)
+- 🎯 Actively interviewing for Summer 2027 internships and full-time January 2028 roles in AI/ML and backend engineering
 
 ---
 
 ## 💼 Experience
+
+### AI Software Engineer
+**hyrAI / SkillJourney** · Aug 2026 – Sep 2026 · Remote
+
+hyrAI builds AI-powered candidate assessment systems that make hiring faster, fairer, and more data-driven.
+
+- Reduced **false positive flags** in AI candidate assessment platform — when AI systems incorrectly flag legitimate candidate behaviors as violations
+- Built a **labeled dataset of 300+ flagged behaviors** with ground-truth annotations distinguishing genuine violations from false alarms
+- Applied **precision-recall analysis** and threshold tuning using MediaPipe and Python to improve detection accuracy without sacrificing recall on real violations
+
+---
 
 ### Undergraduate Research Assistant — VR & AI Systems
 **UCI Calit2 SMART ITAC, University of California Irvine** · Apr 2026 – Jun 2026 · Irvine, CA
@@ -39,17 +50,8 @@ The SMART ITAC program at UCI Calit2 provides free energy efficiency assessments
 
 ---
 
-### AI Project — False Alarms in AI Proctoring
-**hyrAI / SkillJourney** · Aug 2026 – Present · Remote
-
-- Analyzing real exam recordings to reduce **false positive violation flags** in AI proctoring systems without sacrificing detection of real cheating
-- Building a **labeled dataset of 300+ flagged violations** with ground-truth annotations distinguishing genuine violations from false alarms
-- Applying **precision-recall analysis** and threshold tuning using MediaPipe and Python to improve detection accuracy
-
----
-
 ### Data Science Research Intern — Fake News Detection
-**3E Worldwide (in partnership with CHARUSAT)** · Jun 2026 – Jul 2025 · Remote – India
+**3E Worldwide (in partnership with CHARUSAT)** · Jun 2025 – Jul 2025 · Remote – India
 
 - Built an end-to-end **NLP classification pipeline** in Python using TF-IDF feature extraction, n-gram modeling, Logistic Regression, and Decision Tree classifiers with scikit-learn; best-performing model achieved **~91% accuracy on a 10,000+ article dataset**
 - Evaluated model reliability using **F1, precision-recall, ROC-AUC**, and stratified 5-fold cross-validation; identified and flagged a data leakage risk in the original train/test split that had inflated accuracy metrics
@@ -113,15 +115,6 @@ A deterministic AI agent memory integrity system addressing **OWASP ASI06 memory
 - Adaptive group testing and ddmin delta debugging to find the minimal guilty memory set
 - Integrated **Arize Phoenix and OpenTelemetry** for full trace visibility, Sentry for incident reporting, LangGraph BaseStore adapter for agent memory
 - **44 tests** across single-poison, redundant-poison, and staleness-rot scenarios
-
----
-
-### False Alarms in AI Proctoring — hyrAI
-**AI Learning Project · Aug 2026 – Present**
-
-`Python` `MediaPipe` `Precision-Recall Analysis` `Data Labeling`
-
-Analyzing real exam recordings to reduce false positive violation flags in AI proctoring systems. Building a labeled dataset of 300+ flagged violations and applying precision-recall analysis and threshold tuning to improve detection accuracy without sacrificing recall on real violations.
 
 ---
 
