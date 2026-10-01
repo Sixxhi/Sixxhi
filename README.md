@@ -15,7 +15,7 @@
 
 I am a CS Senior at UC Irvine specializing in Intelligent Systems with a Minor in Statistics (GPA 3.663, Dean's Honor List: Fall 2024, Winter 2025, Winter 2026, Spring 2026, expected graduation December 2027). I care about building things that work correctly under real conditions — not just things that look impressive in a demo.
 
-My work spans AI safety and agentic systems, backend engineering, NLP pipelines, cloud infrastructure, and full-stack development. I have won the AWS Cloud Hacks 2026 AI Safety Track, participated in UC Berkeley AI Hackathon 2026, conducted research at UCI Calit2 SMART ITAC, and worked as a data science research intern building production-quality ML pipelines.
+My work spans AI safety and agentic systems, backend engineering, NLP pipelines, cloud infrastructure, and full-stack development. I have won the AWS Cloud Hacks 2026 AI Safety Track, participated in UC Berkeley AI Hackathon 2026, conducted research at UCI Calit2 SMART ITAC, and worked as an AI Software Engineer at hyrAI reducing false positive flags in AI proctoring systems.
 
 <span style="color:#1a3a6b">**🟦 Availability:** Summer 2027 internships via CPT · Full-time from January 2028 via OPT.</span>
 
@@ -31,10 +31,9 @@ My work spans AI safety and agentic systems, backend engineering, NLP pipelines,
 ### AI Software Engineer
 **hyrAI / SkillJourney** · Aug 2026 – Sep 2026 · Remote
 
-hyrAI builds AI-powered candidate assessment systems that make hiring faster, fairer, and more data-driven.
+hyrAI builds AI-powered interview and proctoring systems that make hiring faster, fairer, and more data-driven.
 
-- Reduced **false positive flags** in AI candidate assessment platform — when AI systems incorrectly flag legitimate candidate behaviors as violations
-- Built a **labeled dataset of 300+ flagged behaviors** with ground-truth annotations distinguishing genuine violations from false alarms
+- Reduced **false positive violation flags** in AI proctoring systems; built labeled dataset of **300+ flagged violations** with ground-truth annotations distinguishing genuine violations from false alarms
 - Applied **precision-recall analysis** and threshold tuning using MediaPipe and Python to improve detection accuracy without sacrificing recall on real violations
 
 ---
@@ -46,7 +45,7 @@ The SMART ITAC program at UCI Calit2 provides free energy efficiency assessments
 
 - Developed **VR training simulations** in SimInsights HyperSkill for building energy assessments and data center cooling efficiency; designed end-to-end scenario flows covering mechanical equipment, sensor systems, and operational procedures
 - Developed reasoning workflows for an **AI training agent** leveraging the ITAC database, ASHRAE guidelines, California building codes, and ISO standards to deliver contextualized simulation feedback
-- Built and maintained modular **backend pipelines** supporting AI agent evaluation, observability, and real-time simulation-feedback workflows
+- Applied **system design principles** to build modular backend pipelines supporting AI agent evaluation, observability, and real-time simulation-feedback workflows
 
 ---
 
@@ -59,18 +58,18 @@ The SMART ITAC program at UCI Calit2 provides free energy efficiency assessments
 
 ---
 
+### Open-Source Development Intern
+**BizzAppDev Systems Pvt. Ltd.** · Jul 2023 – Aug 2023 · 4 weeks
+
+- Contributed to an open-source **Python/XML codebase** backed by PostgreSQL; applied modular design and software engineering best practices through strong **communication and teamwork** in a collaborative development environment
+
+---
+
 ### Software Development Intern
 **SUPROS · Mentored by Ex-Microsoft / PayPal Engineer** · Jun 2023 – Jul 2023 · Remote · 4 weeks
 
 - Built and tested software modules for community-facing applications; applied **test-driven debugging**, iterative refactoring, and modular design under structured engineering mentorship
 - Translated feature requirements into modular tasks, participated in review cycles, and shipped maintainable well-tested code
-
----
-
-### Open-Source Development Intern
-**BizzAppDev Systems Pvt. Ltd.** · Jul 2023 – Aug 2023 · 4 weeks
-
-- Contributed to an open-source **Python/XML codebase** backed by PostgreSQL; strengthened backend data-handling workflows and collaborative development practices
 
 ---
 
@@ -118,19 +117,19 @@ A deterministic AI agent memory integrity system addressing **OWASP ASI06 memory
 
 ---
 
+### CodeCraftHub — AI-Augmented Developer Learning Platform
+`Node.js` `Express.js` `MongoDB` `Docker` `Generative AI` `GitHub Actions`
+
+A personalized developer-learning platform with modular REST API backend, Dockerized deployment, GitHub CI/CD workflow and **version control** best practices, and generative AI tooling across the full SDLC. IBM edX capstone project.
+
+---
+
 ### Forager — Sustainable AI Fashion Assistant
 **Irvine Hacks 2025**
 
 `Vertex AI` `Flask` `React` `Depop API`
 
 A full-stack AI fashion assistant that analyzes outfit images using Vertex AI vision models and recommends similar second-hand alternatives via the Depop API. Designed, integrated, and deployed end-to-end within 24 hours.
-
----
-
-### CodeCraftHub — AI-Augmented Developer Learning Platform
-`Node.js` `Express.js` `MongoDB` `Docker` `Generative AI` `GitHub Actions`
-
-A personalized developer-learning platform with modular REST API backend, Dockerized deployment, GitHub CI/CD workflow, and generative AI tooling across the full SDLC. IBM edX capstone project.
 
 ---
 
@@ -176,6 +175,7 @@ Sep 2024 – Dec 2027
 - **GPA: 3.663 / 4.0**
 - **Dean's Honor List:** Fall 2024 · Winter 2025 · Winter 2026 · Spring 2026
 - **Relevant Coursework:** Artificial Intelligence (A), Information Retrieval (A+), Design & Analysis of Algorithms (B+), Data Structures (A–), Systems Programming C/C++, Linear Algebra (A+), Discrete Math (A), Statistics (A–)
+- **Current:** Data Management (CS 122A), Probability in Computer Science (CS 177), Machine Learning and Data Mining (CS 178)
 
 ---
 
@@ -207,10 +207,10 @@ Sep 2024 – Dec 2027
 
 ## 🌟 Leadership & Community
 
-- **Adobe Student Ambassador** — Adobe (2026–Present): Promoting creative AI and design tools within UCI's CS engineering community through content and peer outreach
-- **Animal Care & Social Media Lead — UCI ACC**: Grew UCI ACC Instagram from baseline to **~15.3K average interactions** over 14 months through consistent content strategy and community engagement
-- **WICS & Data@UCI — Member/Mentee**: Technical workshops, mentorship programs, and software-engineering professional development
-- **Volunteer Tutor — Angel Xpress Foundation**: Weekly academic tutoring for underprivileged students
+- **Adobe Student Ambassador — Adobe (2026–Present):** Promoting creative AI and design tools within UCI's CS engineering community through content and peer outreach
+- **Animal Care & Social Media Lead — UCI ACC:** Grew UCI ACC Instagram from baseline to **~15.3K average interactions** over 14 months through consistent content strategy and community engagement
+- **WICS & Data@UCI — Member/Mentee:** Technical workshops, mentorship programs, and software-engineering professional development
+- **Volunteer Tutor — Angel Xpress Foundation:** Weekly academic tutoring for underprivileged students
 
 ---
 
