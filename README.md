@@ -23,6 +23,7 @@ My work spans AI safety and agentic systems, backend engineering, NLP pipelines,
 - 📚 Pursuing the **Machine Learning Specialization** (Andrew Ng, Coursera)
 - 🏛️ Applied to the **Anthropic Fellows Program** (AI Safety & Alignment workstream)
 - 🎯 Actively interviewing for Summer 2027 internships and full-time January 2028 roles in AI/ML and backend engineering
+- ✍️ Published technical writing on **[dev.to](https://dev.to)**
 
 ---
 
@@ -61,12 +62,12 @@ The SMART ITAC program at UCI Calit2 provides free energy efficiency assessments
 ### Open-Source Development Intern
 **BizzAppDev Systems Pvt. Ltd.** · Jul 2023 – Aug 2023 · 4 weeks
 
-- Contributed to an open-source **Python/XML codebase** backed by PostgreSQL; applied modular design and software engineering best practices through strong **communication and teamwork** in a collaborative development environment
+- Contributed backend modules to an open-source **Python/XML codebase** (PostgreSQL); implemented reusable components following modular design patterns and REST API conventions alongside a distributed engineering team
 
 ---
 
 ### Software Development Intern
-**SUPROS · Mentored by Ex-Microsoft / PayPal Engineer** · Jun 2023 – Jul 2023 · Remote · 4 weeks
+**SUPROS** · Jun 2023 – Jul 2023 · Remote · 4 weeks
 
 - Built and tested software modules for community-facing applications; applied **test-driven debugging**, iterative refactoring, and modular design under structured engineering mentorship
 - Translated feature requirements into modular tasks, participated in review cycles, and shipped maintainable well-tested code
@@ -207,6 +208,7 @@ Sep 2024 – Dec 2027
 
 ## 🌟 Leadership & Community
 
+- **Learning Assistant — ICS 31: Intro to Programming | UC Irvine, Donald Bren School of ICS (Sep 2026–Present):** Supporting 30+ students in introductory Python; holding office hours, clarifying concepts, and providing code feedback; completed UCI CLAP pedagogical training
 - **Adobe Student Ambassador — Adobe (2026–Present):** Promoting creative AI and design tools within UCI's CS engineering community through content and peer outreach
 - **Animal Care & Social Media Lead — UCI ACC:** Grew UCI ACC Instagram from baseline to **~15.3K average interactions** over 14 months through consistent content strategy and community engagement
 - **WICS & Data@UCI — Member/Mentee:** Technical workshops, mentorship programs, and software-engineering professional development
