@@ -23,7 +23,7 @@ My work spans AI safety and agentic systems, backend engineering, NLP pipelines,
 - 📚 Pursuing the **Machine Learning Specialization** (Andrew Ng, Coursera)
 - 🏛️ Applied to the **Anthropic Fellows Program** (AI Safety & Alignment workstream)
 - 🎯 Actively interviewing for Summer 2027 internships and full-time January 2028 roles in AI/ML and backend engineering
-- ✍️ Published technical writing on **[dev.to](https://dev.to)**
+- ✍️ Published technical writing on **[dev.to](https://dev.to/siddhi_prajapati_6eb49986/immune-deterministic-memory-attribution-for-ai-agents-using-delta-debugging-lb2)**
 
 ---
 
